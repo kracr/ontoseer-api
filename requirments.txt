@@ -1,0 +1,4 @@
+jaro-winkler==2.0.3
+numpy==1.25.2
+Owlready2==0.43
+pandas==2.1.0
